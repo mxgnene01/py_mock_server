@@ -1,3 +1,4 @@
+# mysql
 DROP TABLE IF EXISTS `interface_mock`;
 CREATE TABLE `interface_mock` (
   `id` int(4) unsigned NOT NULL AUTO_INCREMENT,
